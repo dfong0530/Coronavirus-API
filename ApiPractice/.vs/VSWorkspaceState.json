@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiPractice",
+    "\\ApiPractice\\App_Start",
+    "\\ApiPractice\\Controllers",
+    "\\ApiPractice\\Data",
+    "\\ApiPractice\\Entities",
+    "\\ApiPractice\\Models"
+  ],
+  "SelectedNode": "\\ApiPractice.sln",
+  "PreviewInSolutionExplorer": false
+}
